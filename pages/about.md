@@ -3,7 +3,7 @@ layout: page
 title: about
 ---
 
-hello
+About
 =====
 
-**You are here!**
+About body
