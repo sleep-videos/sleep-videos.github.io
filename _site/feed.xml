@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-06T07:34:55+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sleep-videos</title><subtitle>videos for sleep1</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/01/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-01-04T13:43:06+10:00</published><updated>2019-01-04T13:43:06+10:00</updated><id>http://localhost:4000/jekyll/update/2019/01/04/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/01/04/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Grand Illusions</title><link href="http://localhost:4000/youtube/1000/01/01/Grand-Illusions.html" rel="alternate" type="text/html" title="Grand Illusions" /><published>1000-01-01T00:00:16+10:12</published><updated>1000-01-01T00:00:16+10:12</updated><id>http://localhost:4000/youtube/1000/01/01/Grand-Illusions</id><content type="html" xml:base="http://localhost:4000/youtube/1000/01/01/Grand-Illusions.html">&lt;script src=&quot;https://apis.google.com/js/platform.js&quot;&gt;&lt;/script&gt;
+
+&lt;div class=&quot;g-ytsubscribe&quot; data-channel=&quot;henders007&quot; data-layout=&quot;full&quot; data-count=&quot;default&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w&quot;&gt;YouTube Channel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Varied, captivating, wholesome, large pool of eposodes.&lt;/p&gt;
+
+&lt;!-- _Tip: Playlists have been created of the longer eposodes   --&gt;
+&lt;!-- Caution: Several iterations of the intro have louder noises/music_ --&gt;
+
+&lt;!-- __test__ --&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Tip: Playlists have been created of the longer eposodes&lt;/code&gt; &lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Caution: Several iterations of the intro have louder noises/music&lt;/code&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;example-introduction-video&quot;&gt;Example introduction video&lt;/h1&gt;
+&lt;!-- First Header | Second Header --&gt;
+&lt;!-- ------------ | ------------- --&gt;
+&lt;!-- Content from cell 1 | Content from cell 2 --&gt;
+&lt;!-- Content in the first column | Content in the second column --&gt;
+
+&lt;!-- `Example introductory video` --&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ix_cNU-Xp3A&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">YouTube Channel</summary></entry><entry><title type="html">TheCrafsMan SteadyCraftin</title><link href="http://localhost:4000/youtube/1000/01/01/TheCrafsMan.html" rel="alternate" type="text/html" title="TheCrafsMan SteadyCraftin" /><published>1000-01-01T00:00:16+10:12</published><updated>1000-01-01T00:00:16+10:12</updated><id>http://localhost:4000/youtube/1000/01/01/TheCrafsMan</id><content type="html" xml:base="http://localhost:4000/youtube/1000/01/01/TheCrafsMan.html">&lt;script src=&quot;https://apis.google.com/js/platform.js&quot;&gt;&lt;/script&gt;
+
+&lt;div class=&quot;g-ytsubscribe&quot; data-channelid=&quot;UCzsjHlc0WRwZYwlinsmtM4w&quot; data-layout=&quot;full&quot; data-count=&quot;default&quot;&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w&quot;&gt;YouTube Channel&lt;/a&gt;
+&lt;!-- &lt;br/&gt;&lt;br/&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;Interesting topic, soft voice, captivating personality, wholesome demeanour.
+&lt;!-- &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/dQw4w9WgXcQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt; --&gt;
+&lt;!-- &lt;iframe src=&quot;http://www.youtube.com/embed/?listType=user_uploads&amp;list=UCzsjHlc0WRwZYwlinsmtM4w&quot; width=&quot;480&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt; --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Example introductory video&lt;/code&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ktv2mJfgFPs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><summary type="html">YouTube Channel</summary></entry></feed>
