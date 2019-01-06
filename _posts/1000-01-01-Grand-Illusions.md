@@ -2,6 +2,7 @@
 layout: post
 title:  "Grand Illusions"
 date:   1000-01-01
+permalink: /:categories/:title:output_ext
 categories: YouTube
 ---
 <script src="https://apis.google.com/js/platform.js"></script>

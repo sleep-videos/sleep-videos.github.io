@@ -2,6 +2,7 @@
 layout: post
 title:  "TheCrafsMan SteadyCraftin"
 date:   1000-01-01
+permalink: /:categories/:title:output_ext
 categories: YouTube
 ---
 
