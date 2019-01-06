@@ -5,4 +5,4 @@
 layout: home
 ---
 
-A collection of videos
+A collection of channels comprising of videos mostly suitable to aid in preparation for sleep.
