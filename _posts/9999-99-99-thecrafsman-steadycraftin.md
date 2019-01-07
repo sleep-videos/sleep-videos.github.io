@@ -11,7 +11,7 @@ categories: YouTube
 [YouTube Channel][yt]
 <!-- <br/><br/> -->
 
-Interesting topic, soft voice, captivating personality, wholesome demeanour.
+Interesting/niche topic, soft voice, captivating personality, wholesome demeanour.
 
 Example introductory video
 ===

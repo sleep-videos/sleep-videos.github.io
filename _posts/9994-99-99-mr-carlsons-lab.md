@@ -13,7 +13,7 @@ categories: YouTube
 
 Informative.
 
-`caution: particularly indepth technical information`
+`Caution: Particularly indepth technical information`
 
 Example introductory video
 ====
