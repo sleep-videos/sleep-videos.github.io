@@ -4,6 +4,7 @@ title:  "TheCrafsMan SteadyCraftin"
 date:   1000-01-01
 permalink: /:categories/:title:output_ext
 categories: YouTube
+excerpt: Interesting/niche topic, soft voice, captivating personality, wholesome demeanour.
 ---
 
 <script src="https://apis.google.com/js/platform.js"></script>

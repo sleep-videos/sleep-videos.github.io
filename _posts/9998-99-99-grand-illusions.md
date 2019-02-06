@@ -4,9 +4,11 @@ title:  "Grand Illusions"
 date:   1000-01-01
 permalink: /:categories/:title:output_ext
 categories: YouTube
+excerpt_separator: <!--excerpt-->
 ---
 <script src="https://apis.google.com/js/platform.js"></script>
 <div class="g-ytsubscribe" data-channel="henders007" data-layout="full" data-count="default"></div>
+<!--excerpt-->
 [YouTube Channel][yt]
 <!-- <br/><br/> -->
 
