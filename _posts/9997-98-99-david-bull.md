@@ -17,7 +17,7 @@ excerpt:
 
 Interesting/abstract topic, soft voice, informative.
 
-David also regularly streams his work in progress on his [twitch][tw] channel.
+David regularly streams his work in progress on his [twitch][tw] channel.
 
 
 Example introductory video
