@@ -15,7 +15,7 @@ excerpt:
 [YouTube Channel][yt]
 <!-- <br/><br/> -->
 
-Interesting/abstract topic, soft voice, informative.
+Insightful perspective, relaxed manner, pervasive topic.
 
 
 Example introductory video
