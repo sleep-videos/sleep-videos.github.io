@@ -22,4 +22,4 @@ Example introductory video
 ===
 <iframe id='ivplayer' type='text/html' width='640' height='360'       src='https://www.invidio.us/embed/NbPgP6wIF44' frameborder='0'></iframe>
 
-[yt]: https://www.youtube.com/channel/UCtzWwFEMaEVXejzRKgPjPNAQ 
+[yt]: https://www.youtube.com/channel/UCtzWwFEMaEVXejzRKgPjPNA
