@@ -24,7 +24,7 @@ github_username: sleep-videos
 
 # Build settings
 markdown: kramdown
-# theme: minima
+theme: minima
 remote_theme: songzivong/dark-minima
 plugins:
   - jekyll-feed
