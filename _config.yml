@@ -24,11 +24,12 @@ github_username: sleep-videos
 
 # Build settings
 markdown: kramdown
-theme: minima
-remote_theme: songzivong/dark-minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  
+remote_theme: songzivong/dark-minima
 
 # paginate: 3
 # paginate_path: "blog/page:num"
