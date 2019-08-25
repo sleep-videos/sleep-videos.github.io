@@ -7,7 +7,7 @@ categories: YouTube
 ---
 
 <script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channelid=""UCe02R4jhI4YVd6rljP9uhrQ data-layout="full" data-count="default"></div>
+<div class="g-ytsubscribe" data-channelid=""UCe02R4jhI4YVd6rljP9uhrQ" data-layout="full" data-count="default"></div>
 [YouTube Channel][yt]
 <!-- <br/><br/> -->
 
