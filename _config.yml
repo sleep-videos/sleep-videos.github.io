@@ -26,8 +26,8 @@ github_username: sleep-videos
 markdown: kramdown
 theme: jekyll-theme-midnight
 plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+ # - jekyll-feed
+ # - jekyll-remote-theme
   - jekyll-seo-tag
   
 # remote_theme: songzivong/dark-minima
